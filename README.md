@@ -142,4 +142,5 @@ Data Visualization
 This dashboard demonstrates the effective use of Power BI for financial data analysis, combining clean visuals, interactive elements, and meaningful insights. It serves as a strong portfolio project to showcase data analysis and visualization skills.
 
 ### Financial Dashbard Presentation
+https://drive.google.com/file/d/1JRtfgzdLlzrZ88Cc0zUV1S_dmC8nJE4U/view?usp=sharing
 
